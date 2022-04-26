@@ -1,0 +1,13 @@
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.csprojAssemblyReference.cache
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.Form1.resources
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.Properties.Resources.resources
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.csproj.GenerateResource.cache
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\матвей1\source\repos\UseLibrary\bin\Debug\UseLibrary.exe.config
+C:\Users\матвей1\source\repos\UseLibrary\bin\Debug\UseLibrary.exe
+C:\Users\матвей1\source\repos\UseLibrary\bin\Debug\UseLibrary.pdb
+C:\Users\матвей1\source\repos\UseLibrary\bin\Debug\ClassLibrary1.dll
+C:\Users\матвей1\source\repos\UseLibrary\bin\Debug\ClassLibrary1.pdb
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.csproj.CopyComplete
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.exe
+C:\Users\матвей1\source\repos\UseLibrary\obj\Debug\UseLibrary.pdb
